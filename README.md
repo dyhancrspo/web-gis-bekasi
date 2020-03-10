@@ -6,5 +6,6 @@ Tools :
 - PHP
 - CodeIgniter for Backend
 - MySQL
-- CSS
+- Bootstarp
+- JavaScript
 - API MAPS Google
